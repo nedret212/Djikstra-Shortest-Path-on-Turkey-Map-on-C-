@@ -1,0 +1,6 @@
+A: Ankara
+B: Eskiþehir
+C: Bolu
+D: Çankýrý
+E: Kýrþehir
+F: Kýrýkkale

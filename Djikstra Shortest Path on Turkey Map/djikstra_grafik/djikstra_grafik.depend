@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1489739312 source:c:\users\nedret\desktop\prolab2_ proje1\djikstra_grafik\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
+1489739312 source:d:\mühendislik\2016 - 2017\bahar dönemi\prolab 2\proje 1\150202114_prolab2_proje1\djikstra_grafik\main.cpp
+	<iostream>
+	<graphics.h>
+	<stdio.h>
+	<string.h>
+	<conio.h>
+
